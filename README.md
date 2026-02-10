@@ -1,4 +1,4 @@
-I have not change the program files yet, but I have completly updated the code to make this work as an xinput xbox gaming controller. This means the controller will work fully in most games, with rumble support, and real triggers, which are now linear. This also makes the game work with many devices like blue retro and blue tooth adapters as it will recognize the controller.
+I have not updated the source files here yet so they are the original ones, but I have completly updated the code to make this work as an xinput xbox gaming controller. This means the controller will work fully in most games, with rumble support, and real triggers, which are now linear. This also makes the game work with many devices like blue retro and blue tooth adapters as it will recognize the controller.
 
 I also updated many other features, and added new features.
 
